@@ -1,0 +1,85 @@
+body,p {
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+}
+.container {
+    margin-top: 80px;
+}
+.rated {
+display: flex;
+margin: 20px;
+background-color:hsl(300, 24%, 96%);
+border-radius: 10px;
+}
+.stars{
+    letter-spacing: 5px;
+    padding: 15px;
+}
+p{
+    color:hsl(300, 43%, 22%);
+    padding: 10px;
+    
+}
+.header{
+    font-size: 50px;
+    color:hsl(300, 43%, 22%)
+}
+.lead {
+    color: hsl(303, 10%, 53%)
+}
+#two {
+    position: relative;
+    left: 30px;
+}
+#three {
+    position: relative;
+    left:60px;
+}
+.card {
+    background-color:hsl(300, 43%, 22%) ;
+   
+}
+.card-text {
+    color: hsl(0, 0%, 100%);
+}
+.card-title {
+    color: hsl(0, 0%, 100%);
+    display: flex;
+    justify-content: center;
+}
+.verified {
+    color:  hsl(333, 80%, 67%);
+    line-height: 5px;
+    padding-left: 20px;
+}
+.h5{
+    margin: 20px;
+    
+}
+.paint {
+display: flex;
+
+}
+.baslik {
+    color:  hsl(333, 80%, 67%);
+    
+    
+}
+.fieldtwo {
+    display: flex;
+    
+}
+.fieldthree {
+    display: flex;
+    
+}
+.irene {margin-top: 20px;
+
+}
+.anne {
+    margin-top: 50px;
+}
+.san {
+    margin-top: 50px;
+}
