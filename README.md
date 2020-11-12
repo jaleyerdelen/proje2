@@ -1,2 +1,1 @@
-# proje2
- 
+https://jaleyerdelen.github.io/proje2/
